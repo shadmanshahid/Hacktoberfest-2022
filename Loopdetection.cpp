@@ -52,7 +52,7 @@ bool isLoopFound() {
 
 	return false;
 }
-
+// Main function
 int main() {
 
 	push(2);
